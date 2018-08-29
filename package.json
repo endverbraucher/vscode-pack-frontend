@@ -11,6 +11,9 @@
     "Extension Packs"
   ],
   "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/endverbraucher/vscode-pack-frontend.git"
+  },
   "extensionPack": [
     "mrmlnc.vscode-scss",
     "robinbentley.sass-indented",
