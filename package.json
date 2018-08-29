@@ -1,6 +1,6 @@
 {
   "name": "pack-frontend",
-  "displayName": "Pack Frontend",
+  "displayName": "Basic Frontend Extension Pack",
   "description": "Basic extension which are used for frontend development (HTML, CSS, SCSS & co)",
   "version": "1.0.0",
   "publisher": "endverbraucher",

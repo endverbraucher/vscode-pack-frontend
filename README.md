@@ -1,4 +1,4 @@
-# Frontend Extension Pack
+# Basic Frontend Extension Pack
 
 This extension pack contains all the extensions I use for Frontend Development. Mainly HTML & CSS Stuff:
 
