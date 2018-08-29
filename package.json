@@ -1,0 +1,28 @@
+{
+    "name": "pack-frontend",
+    "displayName": "Pack Frontend",
+    "description": "Basic extension which are used for frontend development (HTML, CSS, SCSS & co)",
+    "version": "0.0.1",
+    "publisher": "endverbraucher",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "icon.png",
+    "extensionPack": [
+        "Zignd.html-css-class-completion",
+        "adamwalzer.scss-lint",
+        "anseki.vscode-color",
+        "cssho.vscode-svgviewer",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "glen-84.sass-lint",
+        "mrmlnc.vscode-scss",
+        "naumovs.color-highlight",
+        "robinbentley.sass-indented",
+        "vincaslt.highlight-matching-tag"
+    ]
+}
